@@ -1,0 +1,20 @@
+{
+  "name": "isadb2",
+  "version": "2.0.0",
+  "description": "The new method for saving",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "isadb",
+    "isadb2",
+    ".isadb2"
+  ],
+  "author": "Renato (contatoclash6@gmail.com)",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js"
+  }
+}
